@@ -1,3 +1,3 @@
-# YoctoSkills YouTube Channel
+# Extracting text from video
 
-In this repository, I publish the code of the projects that are played on my YouTube channel so that those who want to access it.
+In this repository, I publish the code of the my project of extracting text from videos.
